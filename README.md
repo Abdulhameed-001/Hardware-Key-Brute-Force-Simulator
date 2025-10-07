@@ -26,4 +26,7 @@ Built to teach iteration in Python and to show why embedded devices need brute-f
 - `README.md` — project documentation
 
 ## Author
-**OYEDELE HAMEED ABIODUN** — Cyber-Physical Hardware Security Enthusiast# Hardware-Key-Brute-Force-Simulator
+**OYEDELE HAMEED ABIODUN** 
+ Cyber-Physical Hardware Security Enthusiast# Hardware-Key-Brute-Force-Simulator
+
+**Don't Forget to Follow me on here for more exciting Projects!** 
